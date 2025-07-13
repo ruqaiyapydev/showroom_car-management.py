@@ -1,2 +1,3 @@
-# showroom_car-management.py
-A simple CLI-based cars showroom with file handling in Python.
+
+# Showroom Car Management System
+A Python OOP Project — manages cars, buyers, orders, payments, warranty & more!
